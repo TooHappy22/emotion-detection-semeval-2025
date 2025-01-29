@@ -1,0 +1,9 @@
+[submodule "submodules"]
+	path = submodules
+	url = https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation.git
+[submodule "SemEval2025-Task11-Evaluation"]
+	path = SemEval2025-Task11-Evaluation
+	url = https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation.git
+[submodule "Submodules/SemEval2025-Task11-Evaluation"]
+	path = Submodules/SemEval2025-Task11-Evaluation
+	url = https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation.git
